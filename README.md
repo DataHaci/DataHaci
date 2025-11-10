@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DataHaci
 - 👀 I’m interested in Data and Programming
-- 🌱 I’m currently learning Pyhton, Data Engineering, Machine learning
+- 🌱 I’m currently learning Python, Data Engineering, Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
